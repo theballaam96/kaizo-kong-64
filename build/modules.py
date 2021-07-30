@@ -1,0 +1,3 @@
+import staticcode
+import setup.TrainingGrounds
+import character_spawners.TrainingGrounds
